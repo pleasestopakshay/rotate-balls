@@ -1,6 +1,6 @@
 # Maze Ball Game
 
-A 3D maze ball game where you tilt the maze to guide a ball and collect targets. Built with React, VIte and most importantly my love.
+A 2D maze ball game where you tilt the maze to guide a ball and collect targets. Built with React, VIte and most importantly my love.
 
 ## Getting Started
 
